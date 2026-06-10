@@ -1,6 +1,3 @@
-# NOTE: author list is a best-effort placeholder and MUST be confirmed before
-# publishing a release (which mints a permanent Zenodo version). Add co-authors,
-# ORCIDs, and affiliations as appropriate.
 cff-version: 1.2.0
 message: "If you use this software, please cite it using the metadata below."
 title: "Computational Protein Stability Analysis of SCN1A Missense Variants Identifies a Proteostasis-Impaired Pore-Region Subset and a Complementary Stability-Neutral Population"
@@ -25,4 +22,11 @@ keywords:
   - proteostasis
 authors:
   - family-names: "Shim"
-    given-names: "Yong Kyun"
+    given-names: "Youngkyu"
+    affiliation: "Division of Pediatric Neurology, Department of Pediatrics, Korea University Ansan Hospital, Korea University College of Medicine, Ansan, Gyeonggi-do, Republic of Korea"
+  - family-names: "Kang"
+    given-names: "Eungu"
+    affiliation: "Division of Medical Genetics, Department of Pediatrics, Korea University Ansan Hospital, Korea University College of Medicine, Ansan, Gyeonggi-do, Republic of Korea"
+  - family-names: "Kim"
+    given-names: "Suhyun"
+    affiliation: "Department of Convergence Medicine, College of Medicine, Korea University, Seoul, Republic of Korea; Zebrafish Translational Medical Research Center, Korea University, Ansan, Gyeonggi-do, Republic of Korea"

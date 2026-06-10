@@ -7,7 +7,16 @@
   "version": "2.0.0",
   "creators": [
     {
-      "name": "Shim, Yong Kyun"
+      "name": "Shim, Youngkyu",
+      "affiliation": "Division of Pediatric Neurology, Department of Pediatrics, Korea University Ansan Hospital, Korea University College of Medicine, Ansan, Gyeonggi-do, Republic of Korea"
+    },
+    {
+      "name": "Kang, Eungu",
+      "affiliation": "Division of Medical Genetics, Department of Pediatrics, Korea University Ansan Hospital, Korea University College of Medicine, Ansan, Gyeonggi-do, Republic of Korea"
+    },
+    {
+      "name": "Kim, Suhyun",
+      "affiliation": "Department of Convergence Medicine, College of Medicine, Korea University, Seoul, Republic of Korea; Zebrafish Translational Medical Research Center, Korea University, Ansan, Gyeonggi-do, Republic of Korea"
     }
   ],
   "keywords": [
