@@ -1,0 +1,19 @@
+FoldX 5.1 (2011)
+by the FoldX Consortium 
+Jesper Borg, Frederic Rousseau, Joost Schymkowitz,
+Luis Serrano and Francois Stricher
+------------------------------------------------------
+
+PDB file analysed: batch
+Output type: BuildModel
+Pdb	total energy	Backbone Hbond	Sidechain Hbond	Van der Waals	Electrostatics	Solvation Polar	Solvation Hydrophobic	Van der Waals clashes	entropy sidechain	entropy mainchain	sloop_entropy	mloop_entropy	cis_bond	torsional clash	backbone clash	helix dipole	water bridge	disulfide	electrostatic kon	partial covalent bonds	energy Ionisation	Entropy Complex
+scn1a_wt_Repair_1_0.pdb	513.5	-1459.98	-542.805	-1872.15	-74.978	2522.57	-2439.73	84.7475	1031.05	3153.14	0	0	13.716	118.159	1554.73	-5.47956	0	-17.2425	0	0	2.4842	0
+scn1a_wt_Repair_1_1.pdb	513.957	-1459.95	-542.771	-1872.2	-74.847	2522.59	-2439.73	85.018	1031.08	3153.37	0	0	13.716	117.924	1554.8	-5.47958	0	-17.2425	0	0	2.4842	0
+scn1a_wt_Repair_1_2.pdb	512.708	-1459.48	-542.114	-1872.01	-73.9797	2521.69	-2439.69	81.3437	1031.06	3153.4	0	0	13.716	119.011	1554.78	-5.48529	0	-17.2425	0	0	2.4842	0
+scn1a_wt_Repair_1_3.pdb	514.266	-1460.21	-542.875	-1872.86	-75.4084	2524.71	-2440.35	86.2265	1030.77	3152.97	0	0	13.716	117.824	1554.91	-5.48155	0	-17.2425	0	0	2.4842	0
+scn1a_wt_Repair_1_4.pdb	513.59	-1460	-542.755	-1872.13	-74.8881	2522.53	-2439.62	84.5617	1031.04	3153.29	0	0	13.716	118.067	1554.75	-5.47955	0	-17.2425	0	0	2.4842	0
+WT_scn1a_wt_Repair_1_0.pdb	499.368	-1461.22	-549.098	-1871.68	-79.6709	2523.07	-2437.3	78.151	1032.07	3153.6	0	0	13.716	117.976	1554.62	-5.48189	0	-17.2425	0	0	2.4842	0
+WT_scn1a_wt_Repair_1_1.pdb	499.622	-1461.18	-549.11	-1871.64	-79.632	2523.16	-2437.15	78.1819	1031.84	3153.75	0	0	13.716	117.91	1554.63	-5.48188	0	-17.2425	0	0	2.4842	0
+WT_scn1a_wt_Repair_1_2.pdb	498.997	-1461.25	-549.172	-1871.76	-79.6113	2523.12	-2437.46	78.0078	1032.06	3153.6	0	0	13.716	117.996	1554.66	-5.48079	0	-17.2425	0	0	2.4842	0
+WT_scn1a_wt_Repair_1_3.pdb	499.125	-1462.22	-549.52	-1872.36	-80.0263	2525.49	-2437.87	78.384	1032.37	3153.44	0	0	13.716	117.953	1554.77	-5.48354	0	-17.2425	0	0	2.4842	0
+WT_scn1a_wt_Repair_1_4.pdb	499.288	-1461.22	-549.193	-1871.67	-79.6673	2523.09	-2437.29	78.1495	1032.06	3153.59	0	0	13.716	117.962	1554.62	-5.48186	0	-17.2425	0	0	2.4842	0

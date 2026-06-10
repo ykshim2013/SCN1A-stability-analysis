@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Withheld pre-acceptance (regenerated locally from public source databases)
+data/
+results/
+figures/
+supplementary/
+
+# OS
+.DS_Store

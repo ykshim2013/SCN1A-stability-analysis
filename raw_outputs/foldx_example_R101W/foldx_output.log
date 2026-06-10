@@ -1,0 +1,85 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+getInstances
+getInstances
+getInstances
+getInstances
+1 models read: scn1a_wt_Repair.pdb
+getInstances
+getInstances
+1 models read: scn1a_wt_Repair.pdb
+
+BackHbond       =               -1461.14
+SideHbond       =               -549.01
+Energy_VdW      =               -1871.60
+Electro         =               -79.70
+Energy_SolvP    =               2523.33
+Energy_SolvH    =               -2436.94
+Energy_vdwclash =               78.22
+energy_torsion  =               117.86
+backbone_vdwclash=              1554.65
+Entropy_sidec   =               1031.85
+Entropy_mainc   =               3153.77
+water bonds     =               0.00
+helix dipole    =               -5.48
+loop_entropy    =               0.00
+cis_bond        =               13.72
+disulfide       =               -17.24
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.48
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  500.10
+
+
+BackHbond       =               -1461.14
+SideHbond       =               -549.01
+Energy_VdW      =               -1871.60
+Electro         =               -79.70
+Energy_SolvP    =               2523.33
+Energy_SolvH    =               -2436.94
+Energy_vdwclash =               78.22
+energy_torsion  =               117.86
+backbone_vdwclash=              1554.65
+Entropy_sidec   =               1031.85
+Entropy_mainc   =               3153.77
+water bonds     =               0.00
+helix dipole    =               -5.48
+loop_entropy    =               0.00
+cis_bond        =               13.72
+disulfide       =               -17.24
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.48
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  500.10
+
+Starting BuildModel
+Reading RA101W;
+Residue to Mutate ARGA101 has residue index 100
+Mutating residue = ARGA101 into TRP
+Mutating residue = ARGA101 into TRP
+Mutating residue = ARGA101 into TRP
+Mutating residue = ARGA101 into TRP
+Mutating residue = ARGA101 into TRP
+getInstances
+Your file run OK
+End time of FoldX: Sun Mar 29 23:33:49 2026
+Total time spend: 49.46 seconds.
+Cleaning BuildModel...DONE
