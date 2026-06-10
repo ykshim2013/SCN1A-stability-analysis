@@ -1,0 +1,28 @@
+# NOTE: author list is a best-effort placeholder and MUST be confirmed before
+# publishing a release (which mints a permanent Zenodo version). Add co-authors,
+# ORCIDs, and affiliations as appropriate.
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Computational Protein Stability Analysis of SCN1A Missense Variants Identifies a Proteostasis-Impaired Pore-Region Subset and a Complementary Stability-Neutral Population"
+abstract: >-
+  Methodology and analysis code for a structure-guided protein-stability study of
+  SCN1A (Nav1.1) missense variants, combining FoldX and Rosetta Cartesian ddG on an
+  AlphaFold3-predicted Nav1.1 structure (UniProt P35498). Domain-stratified analysis
+  distinguishes a proteostasis-impaired pore-region subset from a complementary
+  stability-neutral S4 voltage-sensor subset.
+type: software
+version: "2.0.0"
+license: CC-BY-4.0
+repository-code: "https://github.com/ykshim2013/SCN1A-stability-analysis"
+keywords:
+  - SCN1A
+  - Nav1.1
+  - epilepsy
+  - protein stability
+  - FoldX
+  - Rosetta Cartesian ddG
+  - AlphaFold3
+  - proteostasis
+authors:
+  - family-names: "Shim"
+    given-names: "Yong Kyun"

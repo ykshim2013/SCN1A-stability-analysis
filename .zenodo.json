@@ -1,0 +1,33 @@
+{
+  "title": "Computational Protein Stability Analysis of SCN1A Missense Variants Identifies a Proteostasis-Impaired Pore-Region Subset and a Complementary Stability-Neutral Population",
+  "description": "Methodology and analysis code for a structure-guided protein-stability study of SCN1A (Nav1.1) missense variants. The pipeline combines FoldX 5.1 (RepairPDB + BuildModel) and Rosetta Cartesian ddG (ref2015_cart), with membrane-aware RosettaMP (franklin2019), applied to an AlphaFold3-predicted full-length Nav1.1 structure (UniProt P35498). Domain-stratified analysis distinguishes a proteostasis-impaired pore-region (P-loop / selectivity-filter) subset from a complementary, stability-neutral S4 voltage-sensor subset, and compares physics-based stability with sequence-based predictors (AlphaMissense, EVE). This archive contains the analysis scripts, the AlphaFold3 input structure, representative raw FoldX/Rosetta outputs, and a reproduction guide. Full per-variant datasets and publication figures are withheld until the manuscript is accepted.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "version": "2.0.0",
+  "creators": [
+    {
+      "name": "Shim, Yong Kyun"
+    }
+  ],
+  "keywords": [
+    "SCN1A",
+    "Nav1.1",
+    "epilepsy",
+    "Dravet syndrome",
+    "protein stability",
+    "FoldX",
+    "Rosetta Cartesian ddG",
+    "AlphaFold3",
+    "missense variant",
+    "proteostasis",
+    "voltage-gated sodium channel"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/ykshim2013/SCN1A-stability-analysis",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
