@@ -1,6 +1,6 @@
 {
-  "title": "Computational Protein Stability Analysis of SCN1A Missense Variants Identifies a Proteostasis-Impaired Pore-Region Subset and a Complementary Stability-Neutral Population",
-  "description": "Methodology and analysis code for a structure-guided protein-stability study of SCN1A (Nav1.1) missense variants. The pipeline combines FoldX 5.1 (RepairPDB + BuildModel) and Rosetta Cartesian ddG (ref2015_cart), with membrane-aware RosettaMP (franklin2019), applied to an AlphaFold3-predicted full-length Nav1.1 structure (UniProt P35498). Domain-stratified analysis distinguishes a proteostasis-impaired pore-region (P-loop / selectivity-filter) subset from a complementary, stability-neutral S4 voltage-sensor subset, and compares physics-based stability with sequence-based predictors (AlphaMissense, EVE). This archive contains the analysis scripts, the AlphaFold3 input structure, representative raw FoldX/Rosetta outputs, and a reproduction guide. Full per-variant datasets and publication figures are withheld until the manuscript is accepted.",
+  "title": "Computational Protein Stability Analysis of SCN1A Missense Variants Reveals Domain-Dependent Stability Patterns",
+  "description": "Methodology and analysis code for a structure-guided protein-stability study of SCN1A (Nav1.1) missense variants. The pipeline combines FoldX 5.1 (RepairPDB + BuildModel) and Rosetta Cartesian ddG (ref2015_cart), with membrane-aware RosettaMP (franklin2019), applied to an AlphaFold3-predicted full-length Nav1.1 structure (UniProt P35498). Domain-stratified analysis distinguishes a proteostasis-impaired pore-region (P-loop / selectivity-filter) subset from a complementary, stability-neutral S4 voltage-sensor subset, and compares physics-based stability with sequence-based predictors (AlphaMissense, EVE). This archive contains the analysis scripts, the AlphaFold3 input structure, representative raw FoldX/Rosetta outputs, and a reproduction guide. The full per-variant dataset and publication figures are available from the corresponding author upon reasonable request.",
   "upload_type": "software",
   "access_right": "open",
   "license": "cc-by-4.0",
@@ -12,6 +12,10 @@
     },
     {
       "name": "Kang, Eungu",
+      "affiliation": "Division of Medical Genetics, Department of Pediatrics, Korea University Ansan Hospital, Korea University College of Medicine, Ansan, Gyeonggi-do, Republic of Korea"
+    },
+    {
+      "name": "Kwak, Naeun",
       "affiliation": "Division of Medical Genetics, Department of Pediatrics, Korea University Ansan Hospital, Korea University College of Medicine, Ansan, Gyeonggi-do, Republic of Korea"
     },
     {
@@ -33,6 +37,11 @@
     "voltage-gated sodium channel"
   ],
   "related_identifiers": [
+    {
+      "identifier": "10.1002/epi4.70312",
+      "relation": "isSupplementTo",
+      "scheme": "doi"
+    },
     {
       "identifier": "https://github.com/ykshim2013/SCN1A-stability-analysis",
       "relation": "isSupplementTo",

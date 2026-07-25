@@ -4,11 +4,11 @@ Computational protein-stability methodology for SCN1A (Nav1.1) missense variants
 
 ## Publication
 
-**Title:** Computational Protein Stability Analysis of SCN1A Missense Variants Identifies a Proteostasis-Impaired Pore-Region Subset and a Complementary Stability-Neutral Population
+**Title:** Computational Protein Stability Analysis of SCN1A Missense Variants Reveals Domain-Dependent Stability Patterns
 
-**Journal:** *Epilepsia Open* (under review)
+**Journal:** *Epilepsia Open* (2026) — DOI: [10.1002/epi4.70312](https://doi.org/10.1002/epi4.70312)
 
-> **Scope of this repository.** This repository documents the **methodology and analytical concept** of the study. The manuscript, full per-variant datasets, computed result tables, and publication figures are **withheld until the paper is accepted**. The analysis code, the AlphaFold3 input structure, representative raw tool outputs, and the reproduction guide are provided so the pipeline can be inspected and re-run against the public source databases.
+> **Scope of this repository.** This repository documents the **methodology and analytical concept** of the study. The complete per-variant dataset, computed result tables, and publication figures are available from the corresponding author upon reasonable request. The analysis code, the AlphaFold3 input structure, representative raw tool outputs, and the reproduction guide are provided so the pipeline can be inspected and re-run against the public source databases.
 
 ## Concept
 
@@ -45,7 +45,7 @@ LICENSE             CC-BY 4.0
 ```
 
 > Input datasets (`data/`), computed results (`results/`), supplementary tables, and
-> rendered figures are intentionally **not** included pre-acceptance. The scripts expect
+> rendered figures are **not** included in this methodology repository. The scripts expect
 > input tables under a local `data/` directory; see `reproducibility/REPRODUCE.md`.
 
 ## Scripts
@@ -77,7 +77,7 @@ step-by-step pipeline.
 - **AlphaFold3 Server:** https://alphafoldserver.com/
 - **AlphaMissense / EVE:** respective public releases
 
-The complete per-variant dataset and publication figures will be released here upon acceptance.
+The complete per-variant dataset and publication figures are available from the corresponding author upon reasonable request.
 
 ## License
 
@@ -85,4 +85,6 @@ Licensed under CC-BY 4.0 (see `LICENSE`).
 
 ## Citation
 
-[To be updated upon publication]
+Shim Y, Kang E, Kwak N, Kim S. Computational protein stability analysis of SCN1A missense variants reveals domain-dependent stability patterns. *Epilepsia Open*. 2026;e70312. https://doi.org/10.1002/epi4.70312
+
+If you use this code or the archived release, please also cite the software via its Zenodo record (concept DOI [10.5281/zenodo.19363852](https://doi.org/10.5281/zenodo.19363852)) and the metadata in `CITATION.cff`.

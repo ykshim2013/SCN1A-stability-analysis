@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it using the metadata below."
-title: "Computational Protein Stability Analysis of SCN1A Missense Variants Identifies a Proteostasis-Impaired Pore-Region Subset and a Complementary Stability-Neutral Population"
+title: "Computational Protein Stability Analysis of SCN1A Missense Variants Reveals Domain-Dependent Stability Patterns"
 abstract: >-
   Methodology and analysis code for a structure-guided protein-stability study of
   SCN1A (Nav1.1) missense variants, combining FoldX and Rosetta Cartesian ddG on an
@@ -27,6 +27,26 @@ authors:
   - family-names: "Kang"
     given-names: "Eungu"
     affiliation: "Division of Medical Genetics, Department of Pediatrics, Korea University Ansan Hospital, Korea University College of Medicine, Ansan, Gyeonggi-do, Republic of Korea"
+  - family-names: "Kwak"
+    given-names: "Naeun"
+    affiliation: "Division of Medical Genetics, Department of Pediatrics, Korea University Ansan Hospital, Korea University College of Medicine, Ansan, Gyeonggi-do, Republic of Korea"
   - family-names: "Kim"
     given-names: "Suhyun"
     affiliation: "Department of Convergence Medicine, College of Medicine, Korea University, Seoul, Republic of Korea; Zebrafish Translational Medical Research Center, Korea University, Ansan, Gyeonggi-do, Republic of Korea"
+doi: "10.5281/zenodo.19363852"
+preferred-citation:
+  type: article
+  title: "Computational protein stability analysis of SCN1A missense variants reveals domain-dependent stability patterns"
+  authors:
+    - family-names: "Shim"
+      given-names: "Youngkyu"
+    - family-names: "Kang"
+      given-names: "Eungu"
+    - family-names: "Kwak"
+      given-names: "Naeun"
+    - family-names: "Kim"
+      given-names: "Suhyun"
+  journal: "Epilepsia Open"
+  year: 2026
+  doi: "10.1002/epi4.70312"
+  issn: "2470-9239"
