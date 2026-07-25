@@ -8,7 +8,7 @@ abstract: >-
   distinguishes a proteostasis-impaired pore-region subset from a complementary
   stability-neutral S4 voltage-sensor subset.
 type: software
-version: "2.0.0"
+version: "2.0.1"
 license: CC-BY-4.0
 repository-code: "https://github.com/ykshim2013/SCN1A-stability-analysis"
 keywords:
