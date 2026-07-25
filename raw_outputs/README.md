@@ -44,13 +44,18 @@ Rosetta mutation specification format.
 ## Batch Run Logs
 
 ### `foldx_batch_865_run.log`
-Complete log from the initial FoldX batch processing of 865 variants:
+Complete log from an intermediate FoldX batch processing of 865 variants:
 - Total time: 55.0 minutes
 - 5 runs per variant, 8 parallel processes
 - Per-variant status and ETA timestamps
 - 865/865 successful, 0 failed
 
-The 1,011-variant 5-run recalculation completed in 60.5 minutes (all 1,011 successful).
+A subsequent 1,011-variant 5-run recalculation completed in 60.5 minutes (all 1,011 successful).
+
+> **Note.** The 865- and 1,011-variant figures above are *intermediate development batches* from
+> earlier processing rounds. The **final published calibration set comprises 1,045 variants
+> (985 P/LP + 60 B/LB)**, curated from a single May 2026 ClinVar snapshot; see the article
+> (doi:10.1002/epi4.70312) for the definitive dataset composition.
 
 ## Verification
 

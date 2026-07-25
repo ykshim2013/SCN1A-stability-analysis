@@ -1,9 +1,9 @@
 # Reproduction Guide
 
-This guide documents the analysis pipeline. Per-variant input tables are **withheld until
-publication**; the scripts expect them under a local `data/` directory. The source databases
-(ClinVar, gnomAD v4.1, AlphaMissense, EVE) are public, so the calibration tables can be
-reconstructed from them.
+This guide documents the analysis pipeline. Per-variant input tables are **not included in this
+repository** (available from the corresponding author on reasonable request); the scripts expect
+them under a local `data/` directory. The source databases (ClinVar, gnomAD v4.1, AlphaMissense,
+EVE) are public, so the calibration tables can be reconstructed from them.
 
 ## Prerequisites
 
